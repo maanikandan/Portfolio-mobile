@@ -92,7 +92,7 @@ In order to run this project you need:
 
 ### Setup
 
-- Clone this repository to your desired folder with the following commend  git clone git@github.com/maanikandan/Portfolio-mobile.git
+- Clone this repository to your desired folder with the following commend  git clone git@github.com:maanikandan/Portfolio-mobile.git
 
 
 ### Install
