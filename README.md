@@ -171,7 +171,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- LICENSE -->
 
-## 📝 License <a name="License"></a>
+## 📝 LICENSE <a name="LICENSE"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
