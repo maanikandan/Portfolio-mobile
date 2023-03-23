@@ -1,5 +1,4 @@
-<a name="readme-top"></a>
-
+# Portfolio-mobile
 
 <!-- TABLE OF CONTENTS -->
 
@@ -22,38 +21,39 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [📝 License](#License)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖Portfolio-setup-and-mobile-first<a name="about-project"></a>
 
 
-**[Hello Microverse]** is a project i design.
+**Portfolio-setup-and-mobile-first** is shows my Techinical skills and projects that i have done.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
@@ -62,15 +62,16 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[HTML]**
-- **[CSS]**
-- **[LINTERS]**
+- **Header**
+- **Tag-Line**
+- **Social-Links**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+
 
 - [Live Demo Link](N/A)
 
@@ -87,75 +88,35 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Modern chrome Browser
 
 ### Setup
 
-Clone this repository to your desired folder:
+- Clone this repository to your desired folder with the following commend  git clone git@github.com:maanikandan/Portfolio-mobile.git
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+- Type cd Portfolio-setup-and-mobile-first
+- open index.html file in the browser
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+- To run the project, execute the following command:
+  - Type cd Portfolio-setup-and-mobile-first
+  - open index.html file in the browser
 
 ### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+- To run tests, run the following command:
+  - N/A
 
 ### Deployment
 
-You can deploy this project using:
+- You can deploy this project using:
+  - Type cd Portfolio-setup-and-mobile-first
+  - open index.html file in the browser
 
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,11 +124,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Manikandan**
 
-👤 **ManiKandan**
-
-- GitHub: [@githubhandle](https://github.com/maanikandan)
-
+- GitHub: [ManiKandan](https://github.com/maanikandan)
+- Twitter: [@MANOSMRT](https://twitter.com/MANOSMRT)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/manikandan-p-04395093/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,9 +136,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **[Mobile-version]**
-- [ ] **[Desktop-version]**
+- [ ] **Projects**
+- [ ] **Contact Form**
+- [ ] **Animation and Transition**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,7 +156,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give me star
+
+- If you like this project please give it a STAR⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,16 +165,14 @@ If you like this project give me star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank to Microverse
+- I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="License"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
