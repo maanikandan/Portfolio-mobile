@@ -32,12 +32,16 @@ i {
   height: 72px;
   background-color: #3c3a39;
   padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
 }
 
 .brand {
