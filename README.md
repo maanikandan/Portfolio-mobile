@@ -72,8 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
-- [Live Demo Link](N/A)
+- Coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,8 +170,9 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- LICENSE -->
 
-## 📝 License <a name="License"></a>
+## 📝 LICENSE <a name="LICENSE"></a>
 
-This project is [MIT](./License) licensed.
+This project is [MIT](./LICENSE) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
