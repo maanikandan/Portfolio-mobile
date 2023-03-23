@@ -165,8 +165,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank following
-  - MicroVerse 
+- I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
