@@ -9,6 +9,25 @@
   font-family: 'Roboto', sans-serif;
 }
 
+form > button {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  color: #fff;
+  background: #ff6b00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  gap: 10px;
+  width: 156px;
+  height: 48px;
+  border: none;
+  cursor: pointer;
+}
+
 button:hover {
   background-color: #fff5e1;
   color: #f55800;
@@ -37,7 +56,7 @@ i {
   cursor: pointer;
 }
 
-.header { 
+.header {
   height: 72px;
   background-color: #3c3a39;
   padding: 15px;
@@ -139,6 +158,11 @@ nav {
   color: #1c1a19;
 }
 
+footer > hr {
+  color: #dfe1e6;
+  height: 1px;
+}
+
 .parent > hr {
   width: 55%;
   border: 1px solid #212121;
@@ -176,7 +200,7 @@ nav {
   gap: 12px;
 }
 
-.tags > ul > li{
+.tags > ul > li {
   padding: 10px 12px;
   background: #fff;
   border: 1px solid #8993a4;
@@ -198,11 +222,47 @@ nav {
   cursor: pointer;
 }
 
+.tag-par > button {
+  height: 48px;
+  width: 327px;
+  position: absolute;
+  padding: 10px;
+  background-color: #ff6b00;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  border: none;
+  margin-left: -13px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+.about-par > button {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  color: #fff;
+  background: #ff6b00;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px;
+  gap: 10px;
+  width: 156px;
+  height: 48px;
+  border: none;
+  cursor: pointer;
+}
+
 .tags > button:hover {
   background-color: #fff5e1;
   color: #f55800;
 }
-
 
 .tag-grid {
   display: grid;
@@ -234,19 +294,19 @@ nav {
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
-  line-height: 44px; 
+  line-height: 44px;
   color: #fff;
   max-width: 220px;
 }
 
 .tag-par > p {
-font-family: 'Inter' , sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 24px;
-color: #fff;
-width: 300px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #fff;
+  width: 300px;
 }
 
 .tag-par > ul {
@@ -256,30 +316,12 @@ width: 300px;
   width: fit-content;
 }
 
-.tag-par > ul > li{
+.tag-par > ul > li {
   padding: 10px 12px;
   color: #fff;
   border: 1px solid #8993a4;
-  background-color: rgba(255,255,255,0.24);
+  background-color: rgba(255, 255, 255, 0.24);
   align-items: center;
-}
-
-.tag-par > button {
-  height: 48px;
-  width: 327px;
-  position: absolute;
-  padding: 10px;
-  background-color: #ff6b00;
-  color: #fff;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 24px;
-  border: none;
-  margin-left: -13px;
-  margin-top: 40px;
-  cursor: pointer;
 }
 
 .tag-par > button:hover {
@@ -306,51 +348,31 @@ width: 300px;
   margin-bottom: 60px;
 }
 
-.about-par > h2{
-font-family: 'Crete Round',sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 72px;
-line-height: 88px;
-width: 327px;
-color: #ff6b00;
+.about-par > h2 {
+  font-family: 'Crete Round', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 88px;
+  width: 327px;
+  color: #ff6b00;
 }
 
-.about-par > p{
-font-family: 'Inter' , sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-width: 327px;
-height: 148px;
-color: #f4f5f7;
-}
-
-.about-par > button {
-font-family: 'Inter';
-font-style: normal;
-font-weight: 700;
-font-size: 17px;
-line-height: 24px;
-color: #fff;
-background: #ff6B00;
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 12px;
-gap: 10px;
-width: 156px;
-height: 48px;
-border: none;
-cursor: pointer;
+.about-par > p {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  width: 327px;
+  height: 148px;
+  color: #f4f5f7;
 }
 
 .about-par > button:hover {
   background-color: #fff5e1;
   color: #f55800;
 }
-
 
 .about-pag {
   background: #1c1a19;
@@ -387,25 +409,7 @@ cursor: pointer;
 }
 
 .line > h4 {
-  font-family: 'Inter' , sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 44px;
-  color: #fff;
-}
-
-.line > h4 {
-font-family: 'Inter' , sans-serif;
-font-style: normal;
-font-weight: 700;
-font-size: 32px;
-line-height: 44px;
-color: #fff;
-}
-
-.line > h4 {
-  font-family: 'Inter' , sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -453,7 +457,7 @@ form > textarea {
   height: 114px;
   padding: 5%;
   border: none;
-  font-family: 'Inter';
+  font-family: 'Inter', sans-serif;
   font-style: italic;
   font-weight: 400;
   font-size: 15px;
@@ -462,32 +466,8 @@ form > textarea {
   color: #3c3a39;
 }
 
-form > button {
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 17px;
-  line-height: 24px;
-  color: #fff;
-  background: #ff6B00;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 12px;
-  gap: 10px;
-  width: 156px;
-  height: 48px;
-  border: none;
-  cursor: pointer;
-}
-
 footer {
   margin-top: 70px;
-}
-
-footer > hr {
-  color: #dfe1e6;
-  height: 1px;
 }
 
 .foot {
