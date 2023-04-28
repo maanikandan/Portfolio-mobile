@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming soon...
+- https://maanikandan.github.io/Portfolio-mobile/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
