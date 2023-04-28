@@ -25,10 +25,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖Portfolio-setup-and-mobile-first<a name="about-project"></a>
+# 📖Portfolio-mobile<a name="about-project"></a>
 
 
-**Portfolio-setup-and-mobile-first** is shows my Techinical skills and projects that i have done.
+**Portfolio-mobile** is shows my Techinical skills and projects that i have done.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- https://maanikandan.github.io/Portfolio-mobile/
+- coming Soon....
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,13 +96,13 @@ In order to run this project you need:
 
 ### Install
 
-- Type cd Portfolio-setup-and-mobile-first
+- Type cd Portfolio-mobile
 - open index.html file in the browser
 
 ### Usage
 
 - To run the project, execute the following command:
-  - Type cd Portfolio-setup-and-mobile-first
+  - Type cd Portfolio-mobile
   - open index.html file in the browser
 
 ### Run tests
@@ -113,7 +113,7 @@ In order to run this project you need:
 ### Deployment
 
 - You can deploy this project using:
-  - Type cd Portfolio-setup-and-mobile-first
+  - Type cd Portfolio-mobile
   - open index.html file in the browser
 
 
