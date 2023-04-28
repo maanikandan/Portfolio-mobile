@@ -1,4 +1,4 @@
-# Portfolio-mobile
+# Portfolio-mobile-version
 
 <!-- TABLE OF CONTENTS -->
 
@@ -25,10 +25,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+
 # 📖Portfolio-mobile<a name="about-project"></a>
 
 
 **Portfolio-mobile** is shows my Techinical skills and projects that i have done.
+=======
+# 📖Porfolio-final-mobile<a name="about-project"></a>
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,6 +69,10 @@
 - **Header**
 - **Tag-Line**
 - **Social-Links**
+- **Recent works**
+- **About**
+- **Contact form**
+- **Footer**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,13 +104,17 @@ In order to run this project you need:
 
 ### Install
 
+
 - Type cd Portfolio-mobile
+
 - open index.html file in the browser
 
 ### Usage
 
 - To run the project, execute the following command:
+
   - Type cd Portfolio-mobile
+
   - open index.html file in the browser
 
 ### Run tests
@@ -113,7 +125,9 @@ In order to run this project you need:
 ### Deployment
 
 - You can deploy this project using:
+
   - Type cd Portfolio-mobile
+
   - open index.html file in the browser
 
 
